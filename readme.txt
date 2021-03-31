@@ -1,0 +1,1 @@
+A program to calculate wages and taxes
